@@ -5,7 +5,7 @@
 .. index:: Image, Picture, Layout; Image item, Layout; North arrow
 .. _layout_picture_item:
 
-The Picture Item
+The Picture and North Arrow Items
 ================
 
 The :guilabel:`Picture` item is a tool that helps decorate your map with
@@ -99,6 +99,10 @@ is a convenient feature for north arrows that you can align with either:
 
 You can also apply a declination :guilabel:`Offset` to the picture rotation.
 
+North Arrows
+
+   [proposition] North Arrow can be added directly from the Toolbar Menu [add link to the Toolbar Menu where the item is descibed] by      setting it to a north arrow picture, and linking it with a map [add item picture or add pic from the developper].
+   
 .. note::
 
    Many of the north arrows do not have an 'N' added in the north arrow, this is
