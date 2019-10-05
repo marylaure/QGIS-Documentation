@@ -12,7 +12,7 @@ QGIS Configuration
       :local:
       :depth: 2
 
-QGIS is highly configurable. Through the :menuselection:`Settings` menu, it
+QGIS is highly configurable and I love it!!. Through the :menuselection:`Settings` menu, it
 provides different tools to:
 
 * |options| :guilabel:`Options...`: set global :ref:`options <gui_options>` to
